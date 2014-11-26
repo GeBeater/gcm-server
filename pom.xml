@@ -7,7 +7,6 @@
     <packaging>jar</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <name>Google GCM Server Library</name>
-    <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
