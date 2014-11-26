@@ -16,4 +16,4 @@ hosted by [Google Code](https://code.google.com/). The assumed and advanced gcm-
 
 ## License
 
-[MIT License](LICENSE)
+[Apache License Version 2.0](LICENSE)
