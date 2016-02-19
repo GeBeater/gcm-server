@@ -1,3 +1,5 @@
+# THIS PROJECT IS DEPRECATED! USE https://github.com/GeBeater/gcm
+
 gcm-server
 ==========
 
